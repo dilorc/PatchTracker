@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.patchtracker.ConcentrationTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-02-16T16:17:15" hostname="chris-laptop" time="0.013">
+  <properties/>
+  <testcase name="fromValue returns U100 for negative value" classname="com.example.patchtracker.ConcentrationTest" time="0.001"/>
+  <testcase name="fromValue returns U100 for invalid value" classname="com.example.patchtracker.ConcentrationTest" time="0.0"/>
+  <testcase name="fromValue returns U200 for 200" classname="com.example.patchtracker.ConcentrationTest" time="0.0"/>
+  <testcase name="U100 has correct value" classname="com.example.patchtracker.ConcentrationTest" time="0.0"/>
+  <testcase name="U200 has correct value" classname="com.example.patchtracker.ConcentrationTest" time="0.0"/>
+  <testcase name="fromValue returns U100 for 100" classname="com.example.patchtracker.ConcentrationTest" time="0.0"/>
+  <testcase name="all enum entries are present" classname="com.example.patchtracker.ConcentrationTest" time="0.011"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

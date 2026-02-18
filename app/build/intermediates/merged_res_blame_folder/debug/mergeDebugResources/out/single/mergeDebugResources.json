@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/cdilorenzo/.gradle/daemon/8.9/com.example.patchtracker.app-debug-70:/xml_compact_dose_widget_info.xml.flat",
+        "source": "/home/cdilorenzo/.gradle/daemon/8.9/com.example.patchtracker.app-main-72:/xml/compact_dose_widget_info.xml"
+    },
+    {
+        "merged": "/home/cdilorenzo/.gradle/daemon/8.9/com.example.patchtracker.app-debug-70:/xml_backup_rules.xml.flat",
+        "source": "/home/cdilorenzo/.gradle/daemon/8.9/com.example.patchtracker.app-main-72:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/cdilorenzo/.gradle/daemon/8.9/com.example.patchtracker.app-debug-70:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/cdilorenzo/.gradle/daemon/8.9/com.example.patchtracker.app-main-72:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.patchtracker.app-debug-70:/xml_compact_dose_widget_info.xml.flat",
+        "source": "com.example.patchtracker.app-main-72:/xml/compact_dose_widget_info.xml"
+    },
+    {
+        "merged": "/home/cdilorenzo/.gradle/daemon/8.9/com.example.patchtracker.app-debug-70:/mipmap-mdpi_ic_launcher_round.xml.flat",
+        "source": "/home/cdilorenzo/.gradle/daemon/8.9/com.example.patchtracker.app-main-72:/mipmap-mdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.patchtracker.app-debug-70:/layout_compact_dose_widget.xml.flat",
+        "source": "com.example.patchtracker.app-main-72:/layout/compact_dose_widget.xml"
+    },
+    {
+        "merged": "/home/cdilorenzo/.gradle/daemon/8.9/com.example.patchtracker.app-debug-70:/xml_dose_widget_info.xml.flat",
+        "source": "/home/cdilorenzo/.gradle/daemon/8.9/com.example.patchtracker.app-main-72:/xml/dose_widget_info.xml"
+    },
+    {
+        "merged": "/home/cdilorenzo/.gradle/daemon/8.9/com.example.patchtracker.app-debug-70:/mipmap-hdpi_ic_launcher_foreground.xml.flat",
+        "source": "/home/cdilorenzo/.gradle/daemon/8.9/com.example.patchtracker.app-main-72:/mipmap-hdpi/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/cdilorenzo/.gradle/daemon/8.9/com.example.patchtracker.app-debug-70:/mipmap-mdpi_ic_launcher.xml.flat",
+        "source": "/home/cdilorenzo/.gradle/daemon/8.9/com.example.patchtracker.app-main-72:/mipmap-mdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/cdilorenzo/.gradle/daemon/8.9/com.example.patchtracker.app-debug-70:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/cdilorenzo/.gradle/daemon/8.9/com.example.patchtracker.app-main-72:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/cdilorenzo/.gradle/daemon/8.9/com.example.patchtracker.app-debug-70:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/cdilorenzo/.gradle/daemon/8.9/com.example.patchtracker.app-main-72:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]

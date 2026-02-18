@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.patchtracker.DoseBatcherTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-02-16T16:17:15" hostname="chris-laptop" time="0.112">
+  <properties/>
+  <testcase name="undo click decrements count" classname="com.example.patchtracker.DoseBatcherTest" time="0.096"/>
+  <testcase name="timer expiration works correctly" classname="com.example.patchtracker.DoseBatcherTest" time="0.002"/>
+  <testcase name="undo resets timer" classname="com.example.patchtracker.DoseBatcherTest" time="0.003"/>
+  <testcase name="undo all clicks cancels timer" classname="com.example.patchtracker.DoseBatcherTest" time="0.003"/>
+  <testcase name="separated clicks form multiple doses" classname="com.example.patchtracker.DoseBatcherTest" time="0.003"/>
+  <testcase name="undo does not go below zero" classname="com.example.patchtracker.DoseBatcherTest" time="0.002"/>
+  <testcase name="rapid clicks form one dose" classname="com.example.patchtracker.DoseBatcherTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

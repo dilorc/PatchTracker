@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#6650A4</color>
+    <string name="app_name">PatchTracker</string>
+    <style name="Theme.PatchTracker" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>

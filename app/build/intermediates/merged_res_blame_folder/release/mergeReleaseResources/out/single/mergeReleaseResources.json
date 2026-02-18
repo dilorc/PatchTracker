@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.example.patchtracker.app-release-60:/mipmap-hdpi_ic_launcher_foreground.xml.flat",
+        "source": "com.example.patchtracker.app-main-61:/mipmap-hdpi/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.patchtracker.app-release-60:/mipmap-mdpi_ic_launcher_round.xml.flat",
+        "source": "com.example.patchtracker.app-main-61:/mipmap-mdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.patchtracker.app-release-60:/mipmap-mdpi_ic_launcher.xml.flat",
+        "source": "com.example.patchtracker.app-main-61:/mipmap-mdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.patchtracker.app-release-60:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.patchtracker.app-main-61:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.patchtracker.app-release-60:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.patchtracker.app-main-61:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.patchtracker.app-release-60:/xml_backup_rules.xml.flat",
+        "source": "com.example.patchtracker.app-main-61:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.patchtracker.app-release-60:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.patchtracker.app-main-61:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]
