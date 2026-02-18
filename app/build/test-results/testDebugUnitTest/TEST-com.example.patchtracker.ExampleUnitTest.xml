@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.example.patchtracker.ExampleUnitTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-02-16T16:17:15" hostname="chris-laptop" time="0.001">
-  <properties/>
-  <testcase name="string_concatenation_works" classname="com.example.patchtracker.ExampleUnitTest" time="0.0"/>
-  <testcase name="addition_isCorrect" classname="com.example.patchtracker.ExampleUnitTest" time="0.0"/>
-  <testcase name="list_operations_work" classname="com.example.patchtracker.ExampleUnitTest" time="0.0"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
